@@ -1,6 +1,6 @@
 {
   "name": "react-native-scalable-image",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "license": "MIT",
   "description": "React Native Image component which scales width or height automatically to keep the aspect ratio",
   "keywords": [
@@ -12,9 +12,9 @@
     "scales-width",
     "scales-height"
   ],
-  "homepage": "https://github.com/ihor/react-native-scalable-image",
+  "homepage": "https://github.com/agodin3z/react-native-scalable-image",
   "bugs": {
-    "url": "https://github.com/ihor/react-native-scalable-image/issues"
+    "url": "https://github.com/agodin3z/react-native-scalable-image/issues"
   },
   "author": {
     "name": "Ihor Burlachenko",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ihor/react-native-scalable-image.git"
+    "url": "git+https://github.com/agodin3z/react-native-scalable-image.git"
   },
   "dependencies": {},
   "devDependencies": {},
